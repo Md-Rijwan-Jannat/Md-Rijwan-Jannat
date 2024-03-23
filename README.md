@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **React , Next.js**
 
-- 📫 How to reach me [Mail me](rijwanjnnat36@gmail.com)
+- 📫 How to reach me rijwanjannat36@gmail.com
 
-- 📄 Know about my experiences [my resume/](https://drive.google.com/file/d/11DBXwQzSED0-g-WaMjGd80gFgLkdwK4d/view?usp=drive_link)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/11DBXwQzSED0-g-WaMjGd80gFgLkdwK4d/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://64a1312f9bc5c72b1524b993--dashing-fudge-319855.netlify.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086218014706) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rijwanjannat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-rijwan-jannat1/) 
