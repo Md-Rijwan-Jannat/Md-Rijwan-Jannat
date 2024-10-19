@@ -39,22 +39,25 @@
 
 #### Frontend Development:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="CSS3" width="40" height="40"/>
+  <img src="./icons/HTML.svg" width="48">
+  <img src="./icons/CSS.svg" width="48">     
+  <img src="./icons/Sass.svg" width="48">
+  <img src="./icons/TailwindCSS-Dark.svg" width="48"> 
+    <img src="./icons/Bootstrap.svg" width="48">
+    <img src="./icons/NextJS-Dark.svg" width="48">
+   <img src="./icons/React-Dark.svg" width="48">
+   <img src="./icons/Vite-Dark.svg" width="48"> 
+   <img src="./icons/Redux.svg" width="48">
+  <img src="./icons/Firebase-Dark.svg" width="48">
+  <img src="./icons/Vercel-Dark.svg" width="48">
 </p>
 
 #### Backend Development:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="./icons/DENO-Dark.svg" width="48">
+  <img src="./icons/ExpressJS-Dark.svg" width="48"> 
+    <img src="./icons/NodeJS-Dark.svg" width="48">   
+   <img src="./icons/MongoDB.svg" width="48"> 
 </p>
 
 #### Programming Languages:
@@ -65,11 +68,16 @@
 
 #### Tools & Platforms:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zapier/zapier-original.svg" alt="Zapier" width="40" height="40"/>
+  <img src="./icons/VSCode-Dark.svg" width="48">
+   <img src="./icons/Bun-Dark.svg" width="48"> 
+   <img src="./icons/Git.svg" width="48"> 
+  <img src="./icons/Github-Dark.svg" width="48"> 
+  <img src="./icons/Gmail-Dark.svg" width="48">
+   <img src="./icons/Netlify-Dark.svg" width="48"> 
+  <img src="./icons/Pnpm-Dark.svg" width="48"> 
+  <img src="./icons/Npm-Dark.svg" width="48"> 
+  <img src="./icons/Windows-Dark.svg" width="48"> 
+   <img src="./icons/Yarn-Dark.svg" width="48"> 
 </p>
 
 ---
