@@ -82,9 +82,9 @@
 
 
 ### 🏆 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat" alt="Streak Stats" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img style="width: 45%; height:300px; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img style="width: 45%; height:300px; min-width: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat" alt="Streak Stats" />
 </div>
 
 
