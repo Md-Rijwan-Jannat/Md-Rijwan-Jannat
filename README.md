@@ -35,35 +35,31 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-## 🏆 GitHub Stats:
+<p align="center">
+  <img width="120px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
+</p>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&" alt="md-rijwan-jannat" />
-</div>
+<h2 align="center">🏆 GitHub Stats</h2>
 
-
-## 🏆 GitHub Stats:
-
-<div style="text-align: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&theme=radical" alt="md-rijwan-jannat GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&layout=compact&theme=radical" alt="md-rijwan-jannat Top Languages" />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=radical" alt="md-rijwan-jannat Streak Stats" />
+  <!-- Streak Stats -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=radical" alt="Streak Stats" />
 </div>
-
 
 ## 🏆 GitHub Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat" alt="md-rijwan-jannat" /></a> </p>
+<p align="left" style="display: flex; justify-content: space-between;"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat" alt="md-rijwan-jannat" />
+  </a> 
+</p>
+
 
 ## 🤝 Support:
 <p><a href="https://www.buymeacoffee.com/mdrijwanjannat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdrijwanjannat" /></a><a href="https://ko-fi.com/mdrijwanjannat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mdrijwanjannat" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-rijwan-jannat&show_icons=true&locale=en&layout=compact" alt="md-rijwan-jannat" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="md-rijwan-jannat" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&" alt="md-rijwan-jannat" /></p>
