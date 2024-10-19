@@ -85,8 +85,8 @@
 
 ### 🏆 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=radical" alt="Streak Stats" />
 </div>
 
 ### 🏆 GitHub Trophies:
