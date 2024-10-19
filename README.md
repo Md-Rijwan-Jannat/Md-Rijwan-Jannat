@@ -84,10 +84,10 @@
 ---
 
 ### 🏆 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="md-rijwan-jannat" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&" alt="md-rijwan-jannat" />
-</div>
+</p>
 
 ---
 
