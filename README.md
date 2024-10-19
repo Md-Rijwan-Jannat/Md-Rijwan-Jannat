@@ -39,16 +39,24 @@
   <img width="120px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
 </p>
 
-<h2 align="center">🏆 GitHub Stats</h2>
-
+<h2 align="center"> <img width="18px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" /> GitHub Stats</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=radical" alt="Streak Stats" />
+   <p><img width="48%" height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="md-rijwan-jannat" />&nbsp;</p>
+  <p><img width="48%" height="250px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&" alt="md-rijwan-jannat" /></p>
 </div>
 
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Stats</h2>
+ <p align="center"></p>
+</p>
+<div align="left" style="display: flex; justify-content: space-between;">
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="md-rijwan-jannat" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&" alt="md-rijwan-jannat" /></p>
+</div>
+>
 ## 🏆 GitHub Trophies:
 <p align="left" style="display: flex; justify-content: space-between;"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
