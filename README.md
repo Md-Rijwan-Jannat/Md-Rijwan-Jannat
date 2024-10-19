@@ -21,7 +21,7 @@
 </div>
 
 
-### 🌐 Connect with Me:
+## 🌐 Connect with Me:
 
   <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -81,14 +81,20 @@
 
 
 
-### 🏆 GitHub Stats:
+
+
+##  🏆 GitHub Stats:
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img style="width: 45%; height:300px; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img style="width: 45%; height:300px; min-width: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat" alt="Streak Stats" />
+  <img style="width: 45%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img style="width: 45%; min-width: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat" alt="Streak Stats" />
 </div>
 
 
-### 🏆 GitHub Trophies:
+
+
+## 🏆 GitHub Trophies:
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
