@@ -46,7 +46,7 @@
 
 ## 🌟 Objective:
 Passionate Junior Full Stack Developer with hands-on experience in building dynamic web applications using Next.js, React, Node.js, MongoDB, and TypeScript. Eager to contribute to innovative projects and enhance my skills in a collaborative environment while delivering high-quality, user-centric solutions.
-  
+
 
 ## 💻 Technologies and Tools:
 
@@ -60,20 +60,22 @@ Passionate Junior Full Stack Developer with hands-on experience in building dyna
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-CC6699?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
@@ -87,12 +89,13 @@ Passionate Junior Full Stack Developer with hands-on experience in building dyna
 
 
 
-##  🏆 GitHub Stats:
+##  🏆 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img style="width: 45%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img style="width: 45%; min-width: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat" alt="Streak Stats" />
-</div>
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=transparent&hide_border=true) |
+
+
 
 
 
