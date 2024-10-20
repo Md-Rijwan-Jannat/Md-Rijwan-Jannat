@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Rijwan Jannat</h1>
+
+
+<h1 align="center">Hi 👋, I'm Md Rijwan Jannat</h1>
 <h3 align="center">A Passionate Junior Full-Stack Developer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-rijwan-jannat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://i.ibb.co.com/DbXFJTB/Linedin-Banner.png">
 
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;">
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" />
-  </p>
 
+
+
+
+
+
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;">
   <div style="margin-top: 20px;">
     <h3>📫 Contact:</h3>
     <p>
@@ -21,7 +25,7 @@
 </div>
 
 
-## 🌐 Connect with Me:
+### 🌐 Connect with Me:
 
   <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,6 +46,8 @@
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
   </a>
 
+## 🌟 Objective:
+Passionate Junior Full Stack Developer with hands-on experience in building dynamic web applications using Next.js, React, Node.js, MongoDB, and TypeScript. Eager to contribute to innovative projects and enhance my skills in a collaborative environment while delivering high-quality, user-centric solutions.
   
 
 ## 💻 Technologies and Tools:
