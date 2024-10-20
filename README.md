@@ -30,21 +30,19 @@
   <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/rijwanjannat" target="_blank">
+  <a href="https://www.instagram.com/rijwanjannat" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://behance.net/https://64a1312f9bc5c72b1524b993--dashing-fudge-319855.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" />
-  </a>
   <a href="mailto:rijwanjannat36@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://x.com/rijwanjannat](https://x.com/JannatRijw51454)" target="_blank">
+    <a href="https://x.com/JannatRijw51454" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
   </a>
+ 
 
 ## 🌟 Objective:
 Passionate Junior Full Stack Developer with hands-on experience in building dynamic web applications using Next.js, React, Node.js, MongoDB, and TypeScript. Eager to contribute to innovative projects and enhance my skills in a collaborative environment while delivering high-quality, user-centric solutions.
