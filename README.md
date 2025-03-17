@@ -25,7 +25,7 @@
 </div>
 
 
-### 🌐 Connect with Me:
+### 🌐 Connect:
 
   <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
