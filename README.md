@@ -19,7 +19,7 @@
     <h3>📫 Contact:</h3>
     <p>
       <strong>Email</strong>: <a href="mailto:rijwanjannat36@gmail.com">rijwanjannat36@gmail.com</a><br>
-      <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md Rijwan Jannat_Full Stack Developer</a><br>
+      <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md Rijwan Jannat_Full Stack Developer.pdf</a><br>
       <strong>Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app.com</a>
     </p>
   </div>
