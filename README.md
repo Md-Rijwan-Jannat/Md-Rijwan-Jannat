@@ -92,13 +92,13 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide=html,css" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" alt="Top Languages" />
       </td>
       <td align="center" width="33%">
         <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&ring_color=3b82f6" alt="GitHub Stats" />
       </td>
       <td align="center" width="33%">
-        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=3b82f6" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=blueberry&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
