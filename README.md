@@ -92,20 +92,20 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&theme=tokyonight&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
+        <img src="https://api.githubtrends.io/user/svg/md-rijwan-jannat/langs?time_range=one_year&theme=dark" alt="Top Languages" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="33%">
-        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=tokyonight" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&theme=tokyonight" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&theme=vue-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -113,5 +113,5 @@
 ## 🏆 GitHub Trophies:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=vue-dark&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
