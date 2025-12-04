@@ -92,20 +92,20 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&theme=darkhub&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide=html,css" alt="Top Languages" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=darkhub&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&ring_color=3b82f6" alt="GitHub Stats" />
       </td>
       <td align="center" width="33%">
-        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=darkhub&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=3b82f6" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&theme=darkhub&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&bg_color=00000000&color=3b82f6&line=3b82f6&point=3b82f6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
