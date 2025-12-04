@@ -92,20 +92,20 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&theme=dark&layout=compact&langs_count=8" alt="Top Languages" />
+        <img src="https://stats.ryo-ta.dev/api/top-langs?username=md-rijwan-jannat&theme=dark&layout=compact&langs_count=8" alt="Top Languages" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://stats.ryo-ta.dev/api?username=md-rijwan-jannat&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=dark" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=md-rijwan-jannat&theme=dark" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&theme=dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=md-rijwan-jannat&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -113,5 +113,5 @@
 ## 🏆 GitHub Trophies:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=dark&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=md-rijwan-jannat&theme=darkhub&column=7&no-bg=true" alt="GitHub Trophies" />
 </div>
