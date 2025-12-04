@@ -9,7 +9,7 @@
     <p>
       <strong>Email</strong>: <a href="mailto:rijwanjannat36@gmail.com">rijwanjannat36@gmail.com</a><br>
       <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md Rijwan Jannat_Full Stack Developer.pdf</a><br>
-      <strong>Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app.com</a>
+      <strong>Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app</a>
     </p>
   </div>
 </div>
@@ -33,7 +33,6 @@
     <a href="https://x.com/JannatRijw51454" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
   </a>
-
 
 ## 💻 Technologies and Tools
 
@@ -82,7 +81,7 @@
 
 ### IDE & OS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
@@ -93,26 +92,26 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rijwan-jannat&theme=dark&layout=compact&langs_count=8" alt="Top Languages" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=md-rijwan-jannat&theme=dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="33%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rijwan-jannat&theme=dark" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rijwan-jannat&theme=dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=dark&column=7" alt="GitHub Trophies" />
+</div>
