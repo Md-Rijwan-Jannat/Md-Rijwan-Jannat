@@ -1,55 +1,39 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/DbXFJTB/Linedin-Banner.png" alt="Banner" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Md Rijwan Jannat</h1>
 <h3 align="center">A Passionate Junior Full-Stack Developer from Bangladesh</h3>
+<img src="https://i.ibb.co.com/DbXFJTB/Linedin-Banner.png">
 
-<div align="center">
-  <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;">
+  <div style="margin-top: 20px;">
+    <h3>📫 Contact:</h3>
+    <p>
+      <strong>Email</strong>: <a href="mailto:rijwanjannat36@gmail.com">rijwanjannat36@gmail.com</a><br>
+      <strong>Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">Md Rijwan Jannat_Full Stack Developer.pdf</a><br>
+      <strong>Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app.com</a>
+    </p>
+  </div>
 </div>
 
 ---
 
-## 🌟 About Me
+### 🌐 Connect With Me:
 
-Passionate Junior Full Stack Developer with hands-on experience in building dynamic web applications using Next.js, React, Node.js, MongoDB, and TypeScript. Eager to contribute to innovative projects and enhance my skills in a collaborative environment while delivering high-quality, user-centric solutions.
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-  <p>
-    <strong>📧 Email</strong>: <a href="mailto:rijwanjannat36@gmail.com">rijwanjannat36@gmail.com</a><br>
-    <strong>📄 Resume</strong>: <a href="https://drive.google.com/file/d/15OqqkOMwSooI_iuQhrb7bCAQLEGug-sN/view?usp=drive_link" target="_blank">View Resume</a><br>
-    <strong>🌐 Portfolio</strong>: <a href="https://mdrijwandev.vercel.app" target="_blank">mdrijwandev.vercel.app</a>
-  </p>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
   <a href="https://www.linkedin.com/in/md-rijwan-jannat-3a479532b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/rijwanjannat" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100086218014706" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:rijwanjannat36@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://x.com/JannatRijw51454" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <a href="https://x.com/JannatRijw51454" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
   </a>
-</div>
 
----
 
 ## 💻 Technologies and Tools
 
@@ -127,14 +111,8 @@ Passionate Junior Full Stack Developer with hands-on experience in building dyna
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-rijwan-jannat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-rijwan-jannat&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
